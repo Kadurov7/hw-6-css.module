@@ -1,0 +1,19 @@
+.input{
+    display: flex;
+    flex-direction: column;
+    width: 680px;
+    padding: 7px;
+}
+.input label{
+    color: black;
+    font-size: 22px;
+    margin-bottom: 7px;
+}
+.input  input{
+    height: 33px;
+    border-radius: 3px;
+    margin-bottom: 8px;
+}
+.input input:hover{
+   background-color: rgb(95, 119, 119);
+}
